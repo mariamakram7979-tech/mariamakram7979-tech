@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**mariamakram7979-tech/mariamakram7979-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mariam Akram 👋
 
-Here are some ideas to get you started:
+### Flutter Mobile App Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineering Student
+
+- 💻 Flutter & Dart
+- 📱 Cross-Platform Mobile App Development
+- 🔥 Firebase & REST APIs
+- 🛠️ Git & GitHub
+
+### Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mariam-akram-05b900406/)
+- [Fiverr](https://www.fiverr.com/s/Emr4R39)
+
+Thanks for visiting my profile! 😊
